@@ -1,0 +1,13 @@
+######################starting zookeeper#######################################
+https://medium.com/@shaaslam/installing-apache-zookeeper-on-windows-45eda303e835
+
+
+######################starting kafka topic streams#############################
+https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka/
+
+#####################Set up hadoop for windows##############################
+https://github.com/MuhammadBilalYar/Hadoop-On-Window/wiki/Step-by-step-Hadoop-2.8.0-installation-on-Window-10
+http://hadooponwindows10.blogspot.com/2016/07/apache-hadoop-271-installation-on-win10.html
+
+###################### install pyspark #######################################
+https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
